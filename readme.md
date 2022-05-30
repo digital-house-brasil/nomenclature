@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary>6. Convenções JavaScript</summary>
+  <summary>6. Convenções do JS</summary>
 
   - camelCase para variáveis, constantes, funções e métodos;
   - PascalCase para classes.
