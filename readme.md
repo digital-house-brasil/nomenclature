@@ -41,9 +41,11 @@
   <summary>4. Kebab Case</summary>
   
   
-  > Kebab case utiliza o traço para combinar as palavras. Quando o kebab case está em caixa alta, ele é chamado de “screaming kebab case”:
+  > Kebab case utiliza o traço para combinar as palavras. Quando o kebab case está em caixa alta, ele é chamado de “screaming kebab case”.
+  
   > É utilizado, portanto, o modelo user-login-count. 
-  > Geralmente, esse padrão é usual em URLs de sites, como no exemplo
+  
+  > Geralmente, esse padrão é usual em URLs de sites, como no exemplo:
 
   ```cmd
   www.blog.com.br/exemplo-de-kebab-case. 
