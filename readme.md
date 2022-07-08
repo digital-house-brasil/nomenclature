@@ -42,10 +42,11 @@
   
   
   > Kebab case utiliza o traço para combinar as palavras. Quando o kebab case está em caixa alta, ele é chamado de “screaming kebab case”:
+  > É utilizado, portanto, o modelo user-login-count. 
+  > Geralmente, esse padrão é usual em URLs de sites, como no exemplo
 
-  ```js
-  const nome-completo = 'João da Silva';
-  const valor-final = 100;
+  ```cmd
+  www.blog.com.br/exemplo-de-kebab-case. 
   ```
 
 </details>
