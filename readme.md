@@ -57,11 +57,17 @@
 <details>
   <summary>5. Snake case</summary>
 
-  > Em snake case, conhecido também como “underscore case”, utilizamos underline no lugar do espaço para separar as palavras. Quando o snake case está em caixa alta, ele é chamado de “screaming snake case”:
+  > Em snake case, conhecido também como “underscore case”, utilizamos underline no lugar do espaço para separar as palavras. Quando o snake case está em caixa alta, ele é chamado de “screaming snake case”.
+  
+  > Em algumas linguagens, é comum ver a utilização do snake_case para nomeclatures de algumas funções ou variáveis, como é o caso da linguagem Python. 
+  
+  > Parece que a galera que desenvolve nessa linguagem tem preferência por definir funções ou variáveis com esse padrão.
 
-  ```js
-  const nome_completo = 'João da Silva';
-  const valor_final = 100;
+  ```py
+  def minha_funcao(**args):
+     pass
+
+  resultado = minha_funcao(1)
   ```
   
 </details>
@@ -78,6 +84,10 @@
   }
 
   const resultadoImc = calculoDoImc(1.75, 80);
+  
+  class Aluno {
+   //métodos
+  }
   ```
   
 </details>
