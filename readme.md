@@ -40,11 +40,12 @@
 <details>
   <summary>4. Kebab Case</summary>
   
-  > Em snake case, conhecido também como “underscore case”, utilizamos underline no lugar do espaço para separar as palavras. Quando o snake case está em caixa alta, ele é chamado de “screaming snake case”:
+  
+  > Kebab case utiliza o traço para combinar as palavras. Quando o kebab case está em caixa alta, ele é chamado de “screaming kebab case”:
 
   ```js
-  const nome_completo = 'João da Silva';
-  const valor_final = 100;
+  const nome-completo = 'João da Silva';
+  const valor-final = 100;
   ```
 
 </details>
@@ -53,11 +54,11 @@
 <details>
   <summary>5. Snake case</summary>
 
-  > Kebab case utiliza o traço para combinar as palavras. Quando o kebab case está em caixa alta, ele é chamado de “screaming kebab case”:
+  > Em snake case, conhecido também como “underscore case”, utilizamos underline no lugar do espaço para separar as palavras. Quando o snake case está em caixa alta, ele é chamado de “screaming snake case”:
 
   ```js
-  const nome-completo = 'João da Silva';
-  const valor-final = 100;
+  const nome_completo = 'João da Silva';
+  const valor_final = 100;
   ```
   
 </details>
